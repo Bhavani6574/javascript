@@ -1,4 +1,4 @@
-/*let i;
+let i;
 for (i = 1; i <= 20; i++) {
   console.log(i);
 }
@@ -103,7 +103,7 @@ while(n>0){
   fact = fact *  digits
   n = Math.floor(n/10);
 }
-console.log(fact);*/
+console.log(fact);
 let n =135;
 count = 0;
 while(n>0){
@@ -123,4 +123,5 @@ while(m>0){
   }
   m= Math.floor(m/10);
 }
+
 console.log(count);
